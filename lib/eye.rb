@@ -20,7 +20,6 @@ module Eye
   autoload :Notify,         'eye/notify'
   autoload :Config,         'eye/config'
   autoload :Reason,         'eye/reason'
-  autoload :Sigar,          'eye/sigar'
   autoload :Controller,     'eye/controller'
   autoload :Control,        'eye/control'
   autoload :Cli,            'eye/cli'
