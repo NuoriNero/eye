@@ -23,8 +23,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'celluloid-io',  '~> 0.17.0'
   gem.add_dependency 'state_machine'
   gem.add_dependency 'thor'
-  gem.add_dependency 'sigar-test', '~> 0.7.3.2'
-
+  gem.add_dependency 'sigar-test', '~> 0.7.3.3'
 
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec', '< 2.14'
